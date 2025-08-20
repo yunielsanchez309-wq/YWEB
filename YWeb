@@ -4,11 +4,13 @@
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <link rel="stylesheet" href="styles/style.css"/>
-  <title>Hello, World!</title>
+  <title>YWeb</title>
 </head>
 <body>
   <h1>
-    Hello, World! yy
+   <center>YWeb 
+</center>
+La página está en desarrollo ¡
   </h1>
 </body>
 </html>
